@@ -35,6 +35,7 @@ import java.util.List;
 			return;
 		}
 		dictionary.add(w);
+		return;
 	}
 	
 	/*public String translateWord(String alienWord) {
